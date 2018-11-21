@@ -42,7 +42,7 @@ function draw() {
   background(202,225,255);
   image(myImage0,width/3.5,0, myImage0.width/1.7, myImage0.height/1.7);
   image(myImage6,0,height/1.8, myImage6.width, myImage6.height);
-  var myText = 'Shake your device to let the presents falling from the sled'
+  var myText = 'Shake your device to let the presents fall from the sled'
   textFont('Lobster');
   textAlign(CENTER);
   textSize(30);
